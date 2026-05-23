@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://goodfirstissue.dev" target="_blank">
-    <img src="public/readme-logo.svg" controls="firstissue">
+    <img src="public/readme-logo.svg" alt="firstissue">
   </a>
 </p>
 <hr>
